@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Nice+to+meet+you👋👋👋;+I'm+Nguyen+Viet+Ha;+Welcome+to+my+Github+homepage+💖💖💖" />
 </h1>
 
-<h2 align="center"> Fresher Embedded Software Engineer from Vietnam </h2>
+<h2 align="center"> Embedded Software Engineer from Vietnam </h2>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 - 🌱 I’m graduated with a degree in **Control Engineering and Automation**
