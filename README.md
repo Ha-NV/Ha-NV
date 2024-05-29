@@ -1,5 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ha-NV.Ha-NV" />
+
 <h1 align="center">Hi 👋, I'm Nguyen Viet Ha</h1>
 <h3 align="center">A passionate embedded developer from Vietnam</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/13788077/file/original-3a34f1ae97650613514fd94c129b20ef.jpg?resize=1504x1128">
 
 - 🌱 I’m currently learning **Embedded developer course**
 
