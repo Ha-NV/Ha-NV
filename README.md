@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Nice+to+meet+you👋👋👋;+I'm+Nguyen+Viet+Ha;+Welcome+to+my+Github+homepage+💖💖💖" />
 </h1>
 
-<h3 align="center">A passionate embedded developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/13788077/file/original-3a34f1ae97650613514fd94c129b20ef.jpg?resize=1504x1128">
+<h2 align="center"> Fresher Embedded Software Engineer from Vietnam </h2>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 - 🌱 I’m currently learning **Embedded developer course**
 
@@ -22,7 +22,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">📝 My Contributions 📝</h2>
+<h3 align="center">📝 My Contributions 📝</h3>
 <br/>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ha-NV/Ha-NV/output/github-contribution-grid-snake.svg" />
@@ -31,7 +31,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 <br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ha-nv&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -44,7 +44,7 @@
 
 <hr/>
 
-<h3 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=700&height=70&duration=4000&lines=💖💖💖+Thanks+for+visiting+💖💖💖;+📬+Please+contact+me+on+Facebook+or+Email+📬" />
-</h3>
+</h1>
 
